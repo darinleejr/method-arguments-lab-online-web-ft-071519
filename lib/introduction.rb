@@ -1,6 +1,6 @@
 greeting = "Josh"
 
-greeting do |josh|
+greeting.each do |josh|
   puts "Hi, my name is Josh"
 end
 
